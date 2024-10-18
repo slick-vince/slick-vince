@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slick-vince
 - 👀 I’m interested in Cloud Computing, Cybersecurity, IT Infrastructure, and Software Development.
-- 🌱 I’m currently learning Advanced Cloud Solutions with AWS, Cybersecurity Protocols, and Database Management.
+- 🌱 I’m currently learning Advanced Cloud Solutions with AWS, Cybersecurity, and Networking.
 - 💞️ I’m looking to collaborate on projects involving IT infrastructure, cloud-based solutions, and cybersecurity.
 - 📫 How to reach me Email: vincentborura086@gmail.com
                      LinkedIn: linkedin.com/in/vincent-borura/
